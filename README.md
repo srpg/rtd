@@ -1,5 +1,5 @@
 # rtd
-This plugin requires<a href="https://formus.sourcepython.com">Source.Python</a> to load
+This plugin requires <a href="https://formus.sourcepython.com">Source.Python</a> to load
 
 # Commands
 - rtd, !rtd, /rtd, rollthedice, !rollthedice, /rollthedice
