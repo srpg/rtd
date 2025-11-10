@@ -1,5 +1,5 @@
 # rtd
-This plugin requires <a href="https://forums.sourcepython.com/">Source.Python</a> to load
+This plugin requires <a href="https://github.com/Source-Python-Dev-Team/Source.Python">Source.Python</a> to load
 
 
 # Commands
